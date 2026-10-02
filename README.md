@@ -12,34 +12,6 @@ Easy to learn: Python’s syntax is simple and very close to natural language, m
 Community support: It has a massive community, meaning you'll find lots of tutorials, resources, and libraries.
 Cross-platform: Python works on different operating systems (Windows, macOS, Linux, etc.).
 Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
-5. Setting Up Python Environment
-Step 1: Download Python
-Visit: Python's official website
-Download the latest version of Python for your operating system (Windows, macOS, or Linux).
-Installation on Windows:
-Check the option "Add Python to PATH" during installation.
-Choose “Install Now” or customize installation options if needed.
-Step 2: Installing IDE (Integrated Development Environment)
-IDE Options: Python can be written in any text editor, but for ease, it's better to use an IDE. Some popular ones are:
-PyCharm: A full-featured IDE (Download from here).
-VS Code: A lightweight editor with Python support (Download from here) - Recommended
-Jupyter Notebook: Great for data science and learning Python interactively (Install with pip install notebook).
-Step 3: Verify Installation
-Open the command prompt or terminal.
-Type python --version or python3 --version to verify that Python is successfully installed.
-6. Writing Your First Python Program
-Let’s write a simple program to understand how Python works.
-
-Step 1: Open a Text Editor or IDE
-Open any text editor like Notepad or an IDE like PyCharm/VS Code.
-Step 2: Write Your First Python Code
-print("Hello, World!")
-This code will print "Hello, World!" on the screen.
-
-Step 3: Run the Program
-On IDE: Click the "Run" button.
-On Terminal: Save the file as hello.py and navigate to the file location in the terminal. Then run:
-python hello.py
 5. Python as an Interpreted Language
 Unlike other compiled languages like C or Java, Python executes the code line by line, which makes debugging easy. Python doesn't require you to compile your code into machine language; the Python interpreter takes care of it.
 Benefits of Interpreted Language:
