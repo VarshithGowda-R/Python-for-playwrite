@@ -43,7 +43,6 @@ On Terminal: Save the file as hello.py and navigate to the file location in the 
 python hello.py
 5. Python as an Interpreted Language
 Unlike other compiled languages like C or Java, Python executes the code line by line, which makes debugging easy. Python doesn't require you to compile your code into machine language; the Python interpreter takes care of it.
-
 Benefits of Interpreted Language:
 Easier debugging: Errors are reported line by line.
 Faster development: You can directly run the code without worrying about compiling.
