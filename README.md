@@ -1,8 +1,9 @@
 # Python-for-playwrite
 
 Introduction to Python Programming
+
 1. What is Python?
-   Python is a high-level, interpreted programming language known for its simplicity and readability. It allows developers to write clear programs for both   small and large-scale projects. Python is used for:
+Python is a high-level, interpreted programming language known for its simplicity and readability. It allows developers to write clear programs for both   small and large-scale projects. Python is used for:
  *Web development (e.g., Django, Flask) 
  *Data Science and Machine Learning (e.g., Pandas, TensorFlow)
  *Automation (e.g., scripting tasks)
@@ -14,10 +15,11 @@ Introduction to Python Programming
 *Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
 
 3. Python as an Interpreted Language
-  Unlike other compiled languages like C or Java, Python executes the code line by line, which makes debugging easy. Python doesn't require you to compile your code into machine language; the Python interpreter takes care of it.
+Unlike other compiled languages like C or Java, Python executes the code line by line, which makes debugging easy. Python doesn't require you to compile your code into machine language; the Python interpreter takes care of it.
 Benefits of Interpreted Language:
 Easier debugging: Errors are reported line by line.
 Faster development: You can directly run the code without worrying about compiling.
+
 6. Key Features of Python
 *Simple Syntax: Easy to read and write, similar to English.
 *Interpreted: Python is executed line by line.
