@@ -3,7 +3,6 @@
 Introduction to Python Programming
 1. What is Python?
 Python is a high-level, interpreted programming language known for its simplicity and readability. It allows developers to write clear programs for both small and large-scale projects. Python is used for:
-
 Web development (e.g., Django, Flask)
 Data Science and Machine Learning (e.g., Pandas, TensorFlow)
 Automation (e.g., scripting tasks)
@@ -13,7 +12,7 @@ Easy to learn: Python’s syntax is simple and very close to natural language, m
 Community support: It has a massive community, meaning you'll find lots of tutorials, resources, and libraries.
 Cross-platform: Python works on different operating systems (Windows, macOS, Linux, etc.).
 Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
-3. Setting Up Python Environment
+5. Setting Up Python Environment
 Step 1: Download Python
 Visit: Python's official website
 Download the latest version of Python for your operating system (Windows, macOS, or Linux).
@@ -28,7 +27,7 @@ Jupyter Notebook: Great for data science and learning Python interactively (Inst
 Step 3: Verify Installation
 Open the command prompt or terminal.
 Type python --version or python3 --version to verify that Python is successfully installed.
-4. Writing Your First Python Program
+6. Writing Your First Python Program
 Let’s write a simple program to understand how Python works.
 
 Step 1: Open a Text Editor or IDE
